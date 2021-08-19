@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ❝Hola Soy Luis Escobedo❞
-  🌟 Actualmente soy estudiante de la carrera de Informàtica, pero estoy aquì para mostrarte mis proyecto que he realizado de manera autodidacta 🤓💪
-   Y de manera Escolar 👨‍💻👨‍💻
+  🌟 Actualmente soy estudiante de la carrera de Informàtica,
+ pero estoy aquì para mostrarte mis proyecto que he realizado de manera autodidacta 🤓💪
+ Y de manera Escolar 👨‍💻👨‍💻
    
   
    🤖 Tecnologias que actualmente manejo son: 🤖
@@ -33,11 +34,12 @@ Here are some ideas to get you started:
    ****************************************************************************************************************************************************
     <h1> About Me </h1>
       
-    👁 Soy originario de Mèxico y actualmente vivo aquì me gusta la programacion y todo el proceso de Desarrollo de Software 👁
+    👁 Soy originario de Mèxico y actualmente vivo aquì,
+ me gusta la programación y todo el proceso del Desarrollo de Software 👁
     
-    *Me entretengo jgando Videojuegos LOL principalmente
+    *Me entretengo jugando Videojuegos LOL principalmente. 🔥
     
-    *Alguien que ver pelicualas y series de superheroes
+    *Me gustan las películas y series de superheroes
     
     *Me gustan Demasiado los Osos 🐻🐻
     
