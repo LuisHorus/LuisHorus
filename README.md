@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ❝Hola Soy Luis Escobedo❞
- Puedes dar un vistaso en mis repositorios para que visualicen los proyectos que he realizado de manera autodidacta y con la ayuda de cursos 💪💻👨‍💻
+ Puedes dar un vistaso en mis repositorios para que visualicen los proyectos que he realizado de manera autodidacta y 
+ con la ayuda de cursos 💪💻👨‍💻
    
   
    🤖 Tecnologias que actualmente manejo son: 🤖
@@ -36,7 +37,8 @@ Here are some ideas to get you started:
     <h1> About Me </h1>
       
     👁 Soy originario de Mèxico y actualmente vivo aquì,
-    me gusta la programación y todo el proceso del Desarrollo de Software es por eso que mne involucro en tener proyectos y compartirlos mediante GitHub 👁
+    me gusta la programación y todo el proceso del Desarrollo de Software es por eso que mne involucro en tener proyectos y 
+    compartirlos mediante GitHub 👁
     
     *Me entretengo jugando Videojuegos LOL principalmente. 🔥
     
@@ -46,7 +48,8 @@ Here are some ideas to get you started:
     
     *Me gusta gusta leer 📚
     
-     Y sigo aprendiendo con la ayuda de PLatzi, del proyecto que me siento mas orgulloso es el de la FarmaciaEnC te invito a que le des un vistaso y si gustas puedes descargarlo. 
+     Y sigo aprendiendo con la ayuda de PLatzi, del proyecto que me siento mas orgulloso es el de la FarmaciaEnC te invito 
+     a que le des un vistaso y si gustas puedes descargarlo. 
     ✔✔ https://github.com/LuisHorus/FarmaciaEnC ✔✔
     
    
