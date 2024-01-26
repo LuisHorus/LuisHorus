@@ -1,56 +1,44 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**LuisHorus/LuisHorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Luis Escobedo, un apasionado autodidacta y desarrollador que disfruta construyendo soluciones tecnológicas. Echa un vistazo a mis repositorios para explorar los proyectos que he creado utilizando tanto aprendizaje autodidacta como cursos especializados. 💪💻👨‍💻
 
-Here are some ideas to get you started:
+### Tecnologías que manejo actualmente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS3 (Flex, Grid y Responsive Web Design)
+- Javascript
+- C/C++
+- Git/GitHub
+- Linux
+- Office 365
+- Microsoft Dynamics 365
+- Notion
 
-❝Hola Soy Luis Escobedo❞
- Puedes dar un vistaso en mis repositorios para que visualicen los proyectos que he realizado de manera autodidacta y 
- con la ayuda de cursos 💪💻👨‍💻
-   
-  
-   🤖 Tecnologias que actualmente manejo son: 🤖
-    
-    * HTML
-    * CSS3 (Flex, Grid, y Responsive Web Design)
-    * Javascript
-    * C/C++
-    * Git/GitHub
-    * Linux
-    * Office 365
-    * Microsoft Dynamics 365
-    * Notion
-      
+¡Estoy siempre buscando aprender más y enfrentar nuevos desafíos! Conéctate conmigo para discutir colaboraciones y oportunidades emocionantes en el mundo del desarrollo. 🚀
+
    
    ****************************************************************************************************************************************************
-    <h1> About Me </h1>
-      
-    👁 Soy originario de Mèxico y actualmente vivo aquì,
-    me gusta la programación y todo el proceso del Desarrollo de Software es por eso que mne involucro en tener proyectos y 
-    compartirlos mediante GitHub 👁
+   ## Sobre mí 👋
+
+   Soy originario de México y actualmente resido aquí. Soy un apasionado por la programación y disfruto cada etapa del desarrollo de software.
+   Me involucro en diversos proyectos que comparto a través de GitHub.
+
+   ## Intereses y Pasatiempos
+
+    - 🎮 Me entretengo jugando videojuegos, especialmente League of Legends (LuisHorus) - LAN.
+    - 🎬 Disfruto de películas y series de superhéroes.
+    - 🦇 Me encanta Batman.
+    - 😎 Me gusta el anime One Piece es mi favorito.
     
-    *Me entretengo jugando Videojuegos LOL principalmente. 🔥
+    ## Aprendizaje Continuo
     
-    *Me gustan las películas y series de superheroes
+    Sigo aprendiendo constantemente con la ayuda de Platziy Udemy. 
+    Uno de los proyectos de los que me siento más orgulloso es [FarmaciaEnC](https://github.com/LuisHorus/FarmaciaEnC). 
+    Te invito a echarle un vistazo y descargarlo si estás interesado.
     
-    *Me gustan Demasiado los Osos 🐻🐻
-    
-    *Me gusta gusta leer 📚
-    
-     Y sigo aprendiendo con la ayuda de PLatzi, del proyecto que me siento mas orgulloso es el de la FarmaciaEnC te invito 
-     a que le des un vistaso y si gustas puedes descargarlo. 
-    ✔✔ https://github.com/LuisHorus/FarmaciaEnC ✔✔
+    ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! 
+    Conéctate conmigo para discutir proyectos emocionantes o compartir experiencias de aprendizaje. ✔✔
+
     
    
    ****************************************************************************************************************************************************
